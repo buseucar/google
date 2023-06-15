@@ -1,0 +1,62 @@
+.search{
+    --tw-bg-opacity: 1;
+    background-color: rgba(229, 231, 235, var(--tw-bg-opacity));
+    width: 1120px;
+    height: 65px;
+    margin: 0px 40px;
+    text-align: center;
+    align-items: center;
+}
+p {
+    text-align: center;
+    padding: 1px 2px;
+    margin: 0px;
+}
+.container{
+    width: 300px;
+    padding: 1px 2px;
+    margin:0em;
+    display: inline-block;
+}
+
+.box-1{
+    --tw-bg-opacity: 1;
+    background-color: rgba(150, 240, 229, var(--tw-bg-opacity));
+    width: 400px;
+    height: 70px;
+    margin-left:40px;
+    margin-top: 0px;
+    text-align: center;
+    float:left;
+    padding-top: 10px;
+}
+.box-2{
+    --tw-bg-opacity: 1;
+    background-color: rgba(150, 210, 200, var(--tw-bg-opacity));
+    width: 300px;
+    height: 70px;
+    margin-left:3px;
+    margin-top:0px;
+    text-align: center;
+    float:left;
+    font-size: small;
+    padding-top: 10px;
+}
+.box-3{
+    --tw-bg-opacity: 1;
+    background-color: rgba(150, 200, 200, var(--tw-bg-opacity));
+    width: 414px;
+    height: 80px;
+    margin-left:3px;
+    margin-top:0px;
+    margin-bottom: 20px;
+    text-align: center;
+    float:left;
+    padding-top: 0px;
+    font-size: small;
+}
+.last-container{
+    font-size: small; 
+    padding-top: 10px;
+    margin-top: 10px;
+}
